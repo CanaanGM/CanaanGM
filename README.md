@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div > 
 
 - 🛸 I’m currently learning everything i find interesting 
-- 🏴‍☠️ I’m currently working on an app that'll log everything i read/watch/buy, etc.
+- 🏴‍☠️ I’m currently working on a [collection logg app](https://github.com/CanaanGM/collections)
 - ⭐ How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
 
