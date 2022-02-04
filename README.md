@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div > 
 
 - 🛸 I’m currently learning everything i find interesting 
-- 🏴‍☠️ I’m currently working on a [collection logg app](https://github.com/CanaanGM/collections)
+- 🏴‍☠️ I’m currently working on a [collection logg app](https://github.com/CanaanGM/Media-Collections)
 - ⭐ How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
                 <li>CPU: i9-8950HK </li>
                 <li>RAM: 80GB</li>
                 <li>OS 1: Windows 10</li>
-                <li>OS 2: Arch Linux</li>
+                <li>OS 2: Ubuntu Linux</li>
             </ul>
             </details>
 </details>
