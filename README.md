@@ -34,7 +34,8 @@ Here are some ideas to get you started:
                 <li>CPU: i9-8950HK </li>
                 <li>RAM: 80GB</li>
                 <li>OS 1: Windows 10</li>
-                <li>OS 2: Ubuntu Linux</li>
+                <li>OS 2: Arch Linux</li>
+                <li>OS 3: Ubuntu Linux</li>
             </ul>
             </details>
 </details>
