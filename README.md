@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Canaan, a fullstack developer working @ .<br>
-<!-- [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
+### I'm Canaan, a fullstack developer <br>
+<!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div > 
 
 - 🛸 I’m currently learning everything i find interesting 
