@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🛸 I’m currently learning everything i find interesting 
 - 🏴‍☠️ I’m currently working on a whatever i feel interesting
 - 🌱 I’m currently learning everything~!
-- ⭐ How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
+- ⭐ How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
 
 
