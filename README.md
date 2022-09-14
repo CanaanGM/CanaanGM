@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Canaan, a SE distributed backend engineer<br>
+### I'm Canaan, an SE distributed backend engineer<br>
 <!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div > 
 
