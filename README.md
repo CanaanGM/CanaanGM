@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - ⭐ How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
 
-[![Canaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=canaangm)](https://github.com/canaangm/github-readme-stats)
 
 <details>
     <summary><strong>Environments</strong></summary>
