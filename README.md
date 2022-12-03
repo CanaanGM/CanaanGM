@@ -47,9 +47,6 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanaanGM&theme=monokai" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CanaanGM&theme=monkai" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanaanGM&theme=monokai" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
