@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 </details>
 
 <div align="center">
+    ![](https://komarev.com/ghpvc/?username=CanaanGM&color=FF0000&label=NUMBER+OF+MORTALS+THAT+HAD+LAID+THEIR+EYES+ON+MY+DOMAIN:&style=flat)
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanaanGM&theme=monokai" />
   </a>
