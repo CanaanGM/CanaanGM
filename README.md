@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: cold showers in the winter are awesome~!
 
 
-### I'm Canaan, an SE distributed backend engineer<br>
+### I'm Canaan, an distributed backend engineer<br>
 <!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div > 
 
