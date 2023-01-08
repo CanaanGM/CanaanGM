@@ -1,4 +1,12 @@
-### Greetings ~! 👋
+## Greetings and welcome traveller ~! 
+
+### I'm Canaan, a distributed backend engineer.<br>
+
+<div>
+   <p>  you may want to browse the pinned repos to see a glimpse of what i normally do or click to my linkedIn thru the link below.</p>
+    <p>There's also my repos stats and the spec of my machine, so take a look!</p>
+   
+</div>
 
 <!--
 **CanaanGM/CanaanGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +20,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
 - ⚡ Fun fact: cold showers in the winter are awesome~!
+-->
 
-
-### I'm Canaan, a distributed backend engineer<br>
 <!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div > 
 
@@ -53,3 +59,8 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CanaanGM&theme=monokai" />
   </a>
 </div>
+
+<footer>
+    <p>No matter how you've stumpled across my humble profile i wish you the happiest of days!</p>
+    
+</footer>
