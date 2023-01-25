@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything~!
 - 💬 How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
-
-
 <details>
     <summary><strong>Environments</strong></summary>
         <details>
@@ -59,7 +57,6 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CanaanGM&theme=monokai" />
   </a>
 </div>
-
 <footer>
     <p>No matter how you've stumpled across my humble profile i wish you the happiest of days!</p>
 </footer>
