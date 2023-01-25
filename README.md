@@ -62,5 +62,4 @@ Here are some ideas to get you started:
 
 <footer>
     <p>No matter how you've stumpled across my humble profile i wish you the happiest of days!</p>
-    
 </footer>
