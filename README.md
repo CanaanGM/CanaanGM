@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... N O T H I N G 
 - 🤔 I’m looking for help with ... L I F E
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...  S U M M O N M E 
 - 😄 Pronouns: ... dragon 
 - ⚡ Fun fact: cold showers in the winter are awesome~!
 -->
