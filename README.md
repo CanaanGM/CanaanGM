@@ -11,7 +11,7 @@
 <!--
 **CanaanGM/CanaanGM** is122 a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:1111
+Here are some ideas to ge1111t you started:1111
 
 - 🔭 I’m currently working on ... D E A T H 
 - 🌱 I’m currently learning ... E V E R Y T H I N G 
