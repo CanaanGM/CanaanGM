@@ -17,7 +17,7 @@ Here are some ideas to ge1111t you started:1111
 - 🌱 I’m currently learning ... E V E R Y T H I N G 
 - 👯 I’m looking to collaborate on ... N O T H I N G 
 - 🤔 I’m looking for help with ... L I F E
-- 💬 Ask me about ...
+- 💬 Ask me about ...111
 - 📫 How to reach me: ...  S U M M O N M E 
 - 😄 Pronouns: ... dragon 
 - ⚡ Fun fact: cold showers in the winter are awesome~!
