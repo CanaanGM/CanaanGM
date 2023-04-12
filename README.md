@@ -1,6 +1,6 @@
 ## Greetings and welcome traveller ~! 
 
-### I'm Canaan, a distributed backend engineer.<br>
+### I'm Canaan, a Human existing on earth who's into computer wizardry .<br>
 
 <div>
    <p>  you may want to browse the pinned repos to see a glimpse of what i normally do or click to my linkedIn thru the link below.</p>
@@ -26,7 +26,9 @@ Here are some ideas to ge1111t you started:1111
 <!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div >
    
-![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)
+   <div>
+![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)   
+   </div>
    
 - 🛸 I’m currently learning Rust and Maths 
 - 🏴‍☠️ I’m currently working on living
