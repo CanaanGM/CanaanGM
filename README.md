@@ -26,7 +26,7 @@ Here are some ideas to ge1111t you started:1111
 <!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div >
    
-- ![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)   
+![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)   
 
    
 - 🛸 I’m currently learning Rust and Maths 
