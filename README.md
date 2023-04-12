@@ -20,6 +20,7 @@ Here are some ideas to ge1111t you started:1111
 - 💬 Ask me about ...111
 - 📫 How to reach me: ...  S U M M O N M E 
 - 😄 Pronouns: ... dragon 
+- 🌱 I’m currently learning everything~!
 - ⚡ Fun fact: cold showers in the winter are awesome~!
 -->
 
@@ -31,7 +32,6 @@ Here are some ideas to ge1111t you started:1111
    
 - 🛸 I’m currently learning Rust and Maths 
 - 🏴‍☠️ I’m currently working on living
-- 🌱 I’m currently learning everything~!
 - 💬 How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
 <details>
