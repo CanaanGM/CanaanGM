@@ -26,8 +26,8 @@ Here are some ideas to ge1111t you started:1111
 <!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div > 
 
-- 🛸 I’m currently learning everything i find interesting 
-- 🏴‍☠️ I’m currently working on a whatever i feel interesting
+- 🛸 I’m currently learning Rust and Maths 
+- 🏴‍☠️ I’m currently working on living
 - 🌱 I’m currently learning everything~!
 - 💬 How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
@@ -39,7 +39,7 @@ Here are some ideas to ge1111t you started:1111
                 <li>Model: MSI Titan G75-SG</li>
                 <li>CPU: i9-8950HK </li>
                 <li>RAM: 80GB</li>
-                <li>OS 1: Windows 10</li>
+                <li>OS 1: Windows 11</li>
                 <li>OS 2: Arch Linux</li>
                 <li>OS 3: Ubuntu Linux</li>
             </ul>
