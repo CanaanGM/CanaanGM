@@ -19,7 +19,7 @@ Here are some ideas to ge1111t you started:1111
 - 🤔 I’m looking for help with ... L I F E
 - 💬 Ask me about ...111
 - 📫 How to reach me: ...  S U M M O N M E 
-- 😄 Pronouns: ... dragon 
+- 😄 Pronouns: ... dragon    
 - 🌱 I’m currently learning everything~!
 - ⚡ Fun fact: cold showers in the winter are awesome~!
 -->
@@ -27,13 +27,14 @@ Here are some ideas to ge1111t you started:1111
 <!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
 <div >
    
-![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)   
 
    
 - 🛸 I’m currently learning Rust and Maths 
 - 🏴‍☠️ I’m currently working on living
 - 💬 How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
+![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)   
+
 <details>
     <summary><strong>Environments</strong></summary>
         <details>
