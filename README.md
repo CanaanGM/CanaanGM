@@ -33,6 +33,7 @@ Here are some ideas to ge1111t you started:1111
 - 🏴‍☠️ I’m currently working on living
 - 💬 How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
 </div>
+
 ![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)   
 
 <details>
