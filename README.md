@@ -54,7 +54,7 @@ Here are some ideas to ge1111t you started:1111
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanaanGM&theme=monokai) 
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanaanGM&theme=monokai" /> 
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanaanGM&theme=monokai) 
