@@ -52,7 +52,7 @@ Here are some ideas to ge1111t you started:1111
             </details>
 </details>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanaanGM&theme=monokai" /> 
   </a>
@@ -62,7 +62,7 @@ Here are some ideas to ge1111t you started:1111
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CanaanGM&theme=monokai) 
   </a>
-</div>
+</div> -->
 <footer align="center">
     <p>No matter how you've stumpled across my humble profile i wish you the happiest of days!</p>
 </footer>
