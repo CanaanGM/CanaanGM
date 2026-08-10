@@ -1,68 +1,41 @@
-## Greetings and welcome ~! 
+## Greetings and welcome ~!
 
-### I'm Canaan, a Human existing on earth who's into computer wizardry .<br>
+I'm Canaan, a Human existing on earth who's into computer wizardry.
 
-<div>
-   <p>  you may want to browse the pinned repos to see a glimpse of what i normally do or click to my linkedIn thru the link below.</p>
-    <p>There's also my repos stats and the spec of my machine, so take a look!</p>
-   
-</div>
+Backend engineer in Amman, Jordan. Currently at **Shory**, working on UAE motor-insurance platforms that talk to Abu Dhabi Police services and a network of insurance companies. C#, Redis, SQL Server, Hangfire. Rust when nobody is looking.
 
-<!--
-**CanaanGM/CanaanGM** is122 a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to ge1111t you started:1111
+### ⚔️ Things I built that have a number attached
 
-- 🔭 I’m currently working on ... D E A T H 
-- 🌱 I’m currently learning ... E V E R Y T H I N G 
-- 👯 I’m looking to collaborate on ... N O T H I N G 
-- 🤔 I’m looking for help with ... L I F E
-- 💬 Ask me about ...111
-- 📫 How to reach me: ...  S U M M O N M E 
-- 😄 Pronouns: ... dragon    
-- 🌱 I’m currently learning everything~!
-- ⚡ Fun fact: cold showers in the winter are awesome~!
--->
+**API quota governance, twice.** Redis with Lua scripts doing atomic per-company counting across 11+ endpoints, then torn down and rebuilt as a configurable service-category × time-period model. Progressive alerts at 70 / 85 / 95 / 100%, with Hangfire-driven deduplication so one bad afternoon doesn't page anyone four hundred times.
 
-<!-- working @ . [Equiti group](https://www.linkedin.com/company/equiti-group/) --> 
-<div >
-   
+**Two breaking-change API migrations, zero broken integrations.** Field renames, data type changes, deprecated attributes removed, request bodies restructured — across the externally exposed surface. Every integrated insurance company survived. This is the one I'm smug about.
 
-<!-- ![dante](https://media0.giphy.com/media/C8fmt5rvfQZKU/giphy.gif?cid=ecf05e47ur8d56jyg97nawgx9z90iiex3ue6pbaxn26r6i5a&rid=giphy.gif&ct=g)   -->
-   
-- 🛸 I’m currently learning Rust and Maths 
-- 🏴‍☠️ I’m currently working on living
-- 💬 How to reach me: [e-mail](mailto:canaand1@gmail.com)/ [linkedIn](https://www.linkedin.com/in/canaangm) / [steam](https://steamcommunity.com/id/Reaka/) / discord : Canaan#9095
- <img src="https://www.codewars.com/users/Canaan/badges/large" />
-</div>
+**Monthly credit note generation, whole vertical slice.** Migrations and stored procedures, PDF generation, Hangfire orchestration with write-back, finance reporting with transaction-level drill-down, and tests covering eligibility, aggregation, numbering, and the failure paths nobody writes tests for.
 
+**PriceMonitor** *(@ Equiti)*. Real-time FX pricing alerts over SignalR and MassTransit/RabbitMQ — ingesting live MT4 and PXM feeds, matching configurable thresholds, fanning out to concurrent trader sessions.
 
-<details>
-    <summary><strong>Environments</strong></summary>
-        <details>
-            <summary><strong>Main PC</strong></summary>
-            <ul>
-                <li>Model: MSI Titan G75-SG</li>
-                <li>CPU: i9-8950HK </li>
-                <li>RAM: 80GB</li>
-                <li>OS 1: Windows 11</li>
-                <li>OS 2: Arch Linux</li>
-                <li>OS 3: Ubuntu Linux</li>
-            </ul>
-            </details>
-</details>
+**A gRPC service wrapping MetaTrader 5** *(@ Equiti)*. 10+ RPC endpoints for positions, orders, deals and trade history. Docker, Kubernetes, Helm, Azure DevOps.
 
-<!-- <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanaanGM&theme=monokai" /> 
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanaanGM&theme=monokai) 
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CanaanGM&theme=monokai) 
-  </a>
-</div> -->
-<footer align="center">
-    <p>No matter how you've stumpled across my humble profile i wish you the happiest of days!</p>
-</footer>
+**A home server that has survived me.** 15+ self-hosted services on Docker Compose, NVIDIA GPU passthrough, Tailscale, LVM, automated drive mounting. Jellyfin and Immich are the load-bearing ones.
+
+---
+
+### 🧰 Tools of the trade
+
+`C#` · `ASP.NET Core` · `EF Core` · `SQL Server` · `Redis` · `Hangfire` · `RabbitMQ` · `gRPC` · `Docker` · `Kubernetes` · `Python` · `Rust` · `Astro` · `Linux`
+
+---
+
+### 📜 Where the actual writing lives
+
+**[kanaan.dev](https://kanaan.dev)** — around fifty writeups. Keyset vs offset pagination. The .NET dispose pattern. Database partitioning. CAP theorem. Static search with no service behind it. Why I started drawing.
+
+Some of them are about code.
+
+---
+
+<sub>Currently learning: Rust, maths, and how to stop starting new repositories. Progress on the third is disputed. (⊙_⊙)？</sub>
+
+<sub><a href="https://kanaan.dev">kanaan.dev</a> · <a href="https://www.linkedin.com/in/canaangm">LinkedIn</a> · canaand1@gmail.com</sub>
