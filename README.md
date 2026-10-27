@@ -1,8 +1,8 @@
 ## Greetings and welcome ~!
 
-I'm Canaan, a Human existing on earth who's into computer wizardry.
+I'm Kanaan, a Human existing on earth who's into computer wizardry.
 
-Backend engineer in Amman, Jordan. Currently at **Shory**, working on UAE motor-insurance platforms that talk to Abu Dhabi Police services and a network of insurance companies. C#, Redis, SQL Server, Hangfire. Rust when nobody is looking.
+this is a place where i keep experiments and fun things i work on, feel free to look around ~!  
 
 ---
 
@@ -30,9 +30,8 @@ Backend engineer in Amman, Jordan. Currently at **Shory**, working on UAE motor-
 
 ### 📜 Where the actual writing lives
 
-**[kanaan.dev](https://kanaan.dev)** — around fifty writeups. Keyset vs offset pagination. The .NET dispose pattern. Database partitioning. CAP theorem. Static search with no service behind it. Why I started drawing.
+**[kanaan.dev](https://kanaan.dev)** is my spot ont the internet, feel free to look around
 
-Some of them are about code.
 
 ---
 
