@@ -15,7 +15,7 @@ this is a place where i keep experiments and fun things i work on, feel free to 
 
 ### 📜 Where the actual writing lives
 
-**[kanaan.dev](https://kanaan.dev)** is my spot ont the internet, feel free to look around
+COMING SOON ~!  **[kanaan.dev](https://kanaan.dev)** is my spot ont the internet, feel free to look around
 
 
 ---
